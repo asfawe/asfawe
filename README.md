@@ -5,7 +5,9 @@
 
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asfawe)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asfawe&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asfawe&layout=compact&theme=tokyonight)
 
 [![youngjin's 42 stats](https://badge42.vercel.app/api/v2/cljay0y08003508jprxetliis/stats?cursusId=21&coalitionId=87)](https://github.com/JaeSeoKim/badge42)
 <!--
